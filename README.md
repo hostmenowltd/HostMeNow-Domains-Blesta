@@ -1,4 +1,4 @@
-# HostMeNow.org Blesta Registrar Plugin
+# HostMeNow.org Blesta Domain Registrar Plugin
 
 ## About
 The HostMeNow.org Blesta Registrar Plugin integrates the Domain API directly into your Blesta installation, allowing resellers to automate domain registration, transfers, renewals, and management. To use this module, a HostMeNow.org Domain Reseller account is required.
